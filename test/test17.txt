@@ -1,0 +1,7 @@
+-- extra tests 
+
+function main returns real; 
+begin
+	(3-2)*2 rem 3 + 4**2/2;
+
+end;
